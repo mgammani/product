@@ -1,0 +1,66 @@
+body{
+    background: #e6e6e6;
+}
+
+.bordered{
+    border: solid 1px lightgray;
+}
+
+
+h1,h2,h3,h4,h5,h6,p{
+    padding: 0;
+    margin: 0;
+}
+
+.header-text{
+    margin: 5px 0;
+    padding: 3px;
+}
+
+.header-text span{
+    /*background: #26a69a ;*/
+    /*color: #ffffff;*/
+    /*padding: 8px;*/
+}
+
+.header-text small{
+    font-size: .5em;
+    color: grey;
+}
+.buttons{
+    padding: 0px;
+    margin-top: 8px;
+}
+
+.summaries{
+    margin-top: 0px;
+}
+
+.summary{
+    color: white;
+}
+
+.summary div{
+    padding: 12px 10px;
+}
+
+.summary .footer p{
+    font-weight: bold;
+}
+
+.summary span, .summary hr{
+    opacity: .4;
+}
+
+.summary .footer{
+    overflow: hidden;
+}
+
+.table .t-wrapper{
+    padding: 5px;
+}
+
+table .btn{
+    padding: 0 !important;
+}
+
